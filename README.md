@@ -11,7 +11,7 @@ You can :
 - Run re-identification attacks (POI-Attack, PIT-Attack, and AP-Attack)
 
 # Requirements
-- Accio framework
+- Accio framework (https://privamov.github.io/accio/)
 - Install S2Geometry for python, java (to run Trilateration)
 
 
