@@ -11,10 +11,9 @@ You can :
 - Run re-identification attacks (POI-Attack, PIT-Attack, and AP-Attack)
 
 # Requirements
+- Accio framework
+- Install S2Geometry for python, java (to run Trilateration)
 
-Install Accio
-Install S2Geometry
-Install java
 
 # Format of Mobility Dataset
 
